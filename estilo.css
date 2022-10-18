@@ -1,0 +1,18 @@
+/*Arquivo estilo.css*/
+@charset "UTF-8";
+p{
+	color: black;
+	font: Arial;	
+}
+
+
+table-cell{
+	border: 2px solid gray;
+}
+body{
+		background-image: url(capadarevistatrimestre3.jpg);
+		background-attachment: fixed;
+		background-size:100%
+	
+}
+
